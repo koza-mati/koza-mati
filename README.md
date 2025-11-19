@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/koza-mati/koza-mati/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
