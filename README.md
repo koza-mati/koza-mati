@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mathew  <br><br>🔭 I’m developing my skills in C++, Python, Java <br>📚 I'm currently learning Python for ML and Java. I'm strongly interested in backend and ML.<br>⚡ In my free time I' m going to the gym to lift some weights.</p>
+<p align="left">I'm Mathew  <br><br>🔭 I’m developing my skills in C++, Java <br>📚 I'm currently learning Java, DB and technologies for Backend. I'm strongly interested in backend. <br>⚡ In my free time I' m going to the gym to lift some weights.</p>
 
 ###
 
@@ -37,11 +37,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
