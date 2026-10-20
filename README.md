@@ -7,19 +7,19 @@ Jestem studentem **Politechniki Wrocławskiej** oraz dokształcam się w roli **
 ### 🧰 Technologie & Narzędzia
 
 **Backend & Bazy Danych:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=social&logo=openjdk) Java](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=social&logo=spring-boot) Spring Boot](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=social&logo=postgresql) PostgreSQL](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=social&logo=sql) SQL](https://en.wikipedia.org/wiki/SQL)
 
 **Języki & Inżynieria:**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076D8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=social&logo=c%2B%2B) C++](https://isocpp.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076D8?style=social&logo=mathworks) MATLAB](https://www.mathworks.com/products/matlab.html)
+[![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git) Git](https://git-scm.com/)
 
 **Frontend / Web Basics:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![React](https://img.shields.io/badge/React-20232A?style=social&logo=react) React](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=social&logo=tailwind-css) Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
@@ -53,5 +53,5 @@ Jestem studentem **Politechniki Wrocławskiej** oraz dokształcam się w roli **
 
 ### 📫 Kontakt
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszkozik2804@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-kozik-/)
+[![Gmail](https://i.sstatic.net/gVE0j.png) Gmail](mailto:mateuszkozik2804@gmail.com) &nbsp;
+[![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mateusz-kozik-/)
