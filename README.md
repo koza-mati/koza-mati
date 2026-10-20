@@ -52,5 +52,6 @@ Jestem studentem **Politechniki Wrocławskiej** oraz dokształcam się w roli **
 
 ---
 
-📫 **Kontakt:** [Mail](mateuszkozik2804@gmail.com)
-                 [LinkedIn](https://www.linkedin.com/in/mateusz-kozik-/)
+📫 **Kontakt:** <a href="mailto:mateuszkozik2804@gmail.com">mateuszkozik2804@gmail.com</a> 
+                 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mateusz-kozik-/)
+&nbsp;
