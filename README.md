@@ -25,14 +25,13 @@ Jestem studentem **Politechniki Wrocławskiej** oraz dokształcam się w roli **
 
 ### 🚀 Główne Projekty
 
-#### 🏋️Java [GymFlex](https://github.com/koza-mati/backendGymFlex)
-* **Stack:** `Java 17` | `Spring Boot` | `PostgreSQL` | `React.js` | `Tailwind CSS`
-* **Opis:** Aplikacja webowa do zarządzania i śledzenia treningów. Odpowiadam za backend – od projektowania encji, normalizacji baz danych (3NF), przez warstwę ORM, aż po wystawienie REST API.
-
+#### 🏋️ Java [GymFlex](https://github.com/koza-mati/backendGymFlex)
+- **Stack:** `Java 17` | `Spring Boot` | `PostgreSQL` | `React.js` | `Tailwind CSS`
+- **Opis:** Aplikacja webowa do zarządzania i śledzenia treningów. Odpowiadam za backend – od projektowania encji, normalizacji baz danych (3NF), przez warstwę ORM, aż po wystawienie REST API.
 
 #### ⏱️ C++ [Hash Table Benchmark](https://github.com/koza-mati/Hash-tables)
-* **Stack:** `C++17`
-* **Opis:** Narzędzie benchmarkujące tablice mieszające z własną alokacją pamięci, otwartym adresowaniem,AVL bucketami oraz Cuckoo Hashingiem dla zbiorów do 640 000 elementów.
+- **Stack:** `C++17`
+- **Opis:** Narzędzie benchmarkujące tablice mieszające z własną alokacją pamięci, otwartym adresowaniem, AVL bucketami oraz Cuckoo Hashingiem dla zbiorów do 640 000 elementów.
 
 ---
 
@@ -52,6 +51,7 @@ Jestem studentem **Politechniki Wrocławskiej** oraz dokształcam się w roli **
 
 ---
 
-📫 **Kontakt:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]<a href="mailto:mateuszkozik2804@gmail.com">mateuszkozik2804@gmail.com</a>
-                 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mateusz-kozik-/)
-&nbsp;
+### 📫 Kontakt
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszkozik2804@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-kozik-/)
